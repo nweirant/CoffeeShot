@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 84ed45c263e989d41b37b5f3ed3f0197
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 1
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: Bird_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 201
+      height: 125
+    spriteID: e8578308698605f41b49a9181e7b135d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Ellipse 11 copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 301
+      width: 14
+      height: 21
+    spriteID: a7a7e4325a8de6e49bd9b59fb74c2f3a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 49, y: 227}
+  - name: Ellipse 11 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 180
+      width: 14
+      height: 21
+    spriteID: 9e6569b7422c83b41bba7f46ca4a0abb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 86, y: 107}
+  - name: Shape 1 copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 343
+      width: 64
+      height: 41
+    spriteID: f6c596ee67ad5ba43978423075f41c54
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -102, y: 279}
+  - name: Shape 1 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 98
+      height: 51
+    spriteID: c35d0ebb6939ff34e84f1cc38a013550
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -99, y: 129}
+  - name: Shape 1 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 113
+      width: 92
+      height: 59
+    spriteID: abc634cb04e595f49a02b7c0f162902e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -95, y: 56}
+  - name: Rectangle 5 copy 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 209
+      width: 8
+      height: 9
+    spriteID: 117d07564488c64469f3d07b3771f363
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -63, y: 197}
+  - name: Rectangle 5 copy 4_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 239
+      width: 8
+      height: 9
+    spriteID: 8d16a3087c6335146b8d8d5cce1532ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -56, y: 232}
+  - name: Rectangle 5 copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 256
+      width: 8
+      height: 9
+    spriteID: 6f553390b45915540868d2c4f03a3afe
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -44, y: 252}
+  - name: Rectangle 5 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 273
+      width: 8
+      height: 9
+    spriteID: 995fe7544d2d4164b9cd1aa7e49b18e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -42, y: 272}
+  - name: Ellipse 11 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 392
+      width: 39
+      height: 63
+    spriteID: 63e7c4abecac1564b8a7594adfa77a33
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -48, y: 337}
+  - name: Rectangle 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 463
+      width: 61
+      height: 33
+    spriteID: e19d5778d6c737745b0ba46c250154c9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 431}
+  - name: Rectangle 5 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 4
+      width: 64
+      height: 27
+    spriteID: 464276215cf42c64dbfbe8927565ed1f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 128, y: -18}
+  - name: Ellipse 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 239
+      width: 32
+      height: 52
+    spriteID: 6a6f9e5fc48f67046a1109e4d3c67f35
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 54, y: 179}
+  - name: Ellipse 10 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 301
+      width: 95
+      height: 34
+    spriteID: f6bb567369b7e3a4f83082d9cca2e3d1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -45, y: 289}
+  - name: Ellipse 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 125
+      height: 101
+    spriteID: 6de606ee8a524a946af4ac3a53868e86
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -28, y: -8}
+  - name: Rounded Rectangle 18 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 343
+      width: 44
+      height: 22
+    spriteID: 9a2d3afda9b144e48815566fea1c0e65
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -55, y: 332}
+  - name: Rounded Rectangle 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 373
+      width: 44
+      height: 22
+    spriteID: 5771aba070682274586f89674437c87e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -42, y: 369}
+  - name: Shape 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 239
+      width: 62
+      height: 54
+    spriteID: ce6a2f3298f5fef4bbb5baf4a7271ee4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -96, y: 168}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 256
+  importedTextureHeight: 512
+  documentSize: {x: 201, y: 125}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 201
+  textureActualHeight: 125
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Enemy4
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ellipse 11 copy 3
+    spriteName: Ellipse 11 copy 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a7a7e4325a8de6e49bd9b59fb74c2f3a
+    layerID: 20
+    mosaicPosition: {x: 107, y: 301}
+  - name: Ellipse 11 copy
+    spriteName: Ellipse 11 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9e6569b7422c83b41bba7f46ca4a0abb
+    layerID: 19
+    mosaicPosition: {x: 110, y: 180}
+  - name: Shape 1 copy 3
+    spriteName: Shape 1 copy 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f6c596ee67ad5ba43978423075f41c54
+    layerID: 18
+    mosaicPosition: {x: 4, y: 343}
+  - name: Shape 1 copy 2
+    spriteName: Shape 1 copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c35d0ebb6939ff34e84f1cc38a013550
+    layerID: 17
+    mosaicPosition: {x: 4, y: 180}
+  - name: Shape 1 copy
+    spriteName: Shape 1 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: abc634cb04e595f49a02b7c0f162902e
+    layerID: 16
+    mosaicPosition: {x: 4, y: 113}
+  - name: Rectangle 5 copy 4
+    spriteName: Rectangle 5 copy 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 117d07564488c64469f3d07b3771f363
+    layerID: 15
+    mosaicPosition: {x: 110, y: 209}
+  - name: Rectangle 5 copy 4
+    spriteName: Rectangle 5 copy 4_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8d16a3087c6335146b8d8d5cce1532ee
+    layerID: 14
+    mosaicPosition: {x: 114, y: 239}
+  - name: Rectangle 5 copy 3
+    spriteName: Rectangle 5 copy 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6f553390b45915540868d2c4f03a3afe
+    layerID: 13
+    mosaicPosition: {x: 114, y: 256}
+  - name: Rectangle 5 copy 2
+    spriteName: Rectangle 5 copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 995fe7544d2d4164b9cd1aa7e49b18e6
+    layerID: 12
+    mosaicPosition: {x: 114, y: 273}
+  - name: Ellipse 11 copy 2
+    spriteName: Ellipse 11 copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 63e7c4abecac1564b8a7594adfa77a33
+    layerID: 11
+    mosaicPosition: {x: 4, y: 392}
+  - name: Rectangle 5
+    spriteName: Rectangle 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e19d5778d6c737745b0ba46c250154c9
+    layerID: 10
+    mosaicPosition: {x: 4, y: 463}
+  - name: Rectangle 5 copy
+    spriteName: Rectangle 5 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 464276215cf42c64dbfbe8927565ed1f
+    layerID: 9
+    mosaicPosition: {x: 137, y: 4}
+  - name: Ellipse 11
+    spriteName: Ellipse 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6a6f9e5fc48f67046a1109e4d3c67f35
+    layerID: 8
+    mosaicPosition: {x: 74, y: 239}
+  - name: Ellipse 10 copy
+    spriteName: Ellipse 10 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f6bb567369b7e3a4f83082d9cca2e3d1
+    layerID: 7
+    mosaicPosition: {x: 4, y: 301}
+  - name: Ellipse 10
+    spriteName: Ellipse 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6de606ee8a524a946af4ac3a53868e86
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4}
+  - name: Rounded Rectangle 18 copy
+    spriteName: Rounded Rectangle 18 copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9a2d3afda9b144e48815566fea1c0e65
+    layerID: 5
+    mosaicPosition: {x: 76, y: 343}
+  - name: Rounded Rectangle 18
+    spriteName: Rounded Rectangle 18
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5771aba070682274586f89674437c87e
+    layerID: 4
+    mosaicPosition: {x: 76, y: 373}
+  - name: Shape 1
+    spriteName: Shape 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ce6a2f3298f5fef4bbb5baf4a7271ee4
+    layerID: 3
+    mosaicPosition: {x: 4, y: 239}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Bird Texture
+  prefabAssetName: Bird Prefab
+  spriteLibAssetName: Bird Sprite Lib
+  secondarySpriteTextures: []
